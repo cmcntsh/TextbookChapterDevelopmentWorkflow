@@ -81,3 +81,15 @@ That seemed to work well. However, ChatGPT didn't create a new markdown file for
 ```
 I want to keep this draft for future reference. Please create a new draft of this document in a separate file. Please keep the same main headings and subheadings. Please reduce the length of the new draft by about half.
 ```
+
+Prompt: create the chapter opener
+
+```
+Please create a new file for the next draft. Please review the Comprehensive_Textbook_Chapter_Writing_and_Design_Style_Guide.md document and create the Chapter Opener items.
+```
+
+Prompt: create the chapter closer
+
+```
+Please create a new file for the next draft. Please review the Comprehensive_Textbook_Chapter_Writing_and_Design_Style_Guide.md document and create the Chapter Closer items.
+```
