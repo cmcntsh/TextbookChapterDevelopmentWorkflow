@@ -93,3 +93,9 @@ Prompt: create the chapter closer
 ```
 Please create a new file for the next draft. Please review the Comprehensive_Textbook_Chapter_Writing_and_Design_Style_Guide.md document and create the Chapter Closer items.
 ```
+
+Prompt: get recommendations on additional items for zone 2
+
+```
+Please evaluate Zone 2: The Main Body. Are there any worked examples you would recommend adding in that section? Are there any formative checks you would recommend adding in that section? It might be nice to have a visual for each main section. What kind of visual would you recommend for each section?
+```
