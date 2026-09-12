@@ -10,7 +10,13 @@ what authoritative texts or peer-reviewed scholarly articles explain <question t
 
 I went and retrieved the sources identified and saved the references in Zotero. I saved the files in my regular literature folder on Box. ChatGPT Work desktop doesn't work with Box well. I created a separate folder directly on my laptop. I added subfolders to keep files in different categories. I added the literature files to a folder. ChatGPT didn't seem to have any problem accessing materials in the subfolders. Once I had all my literature sources in the right folder, I ran the next prompt to review each source and extract relevant quotes with citations.
 
-Prompt: evidence review for relevant passages
+Prompt: create a relevant quote outline from the sources included in the review
+
+```
+Please review each source in the <folder name> folder individually. What passages in the source are relevant to the question, "<question>"? For each relevant passage, quote the entire passage without truncation including the APA citation with page numbers for the quote. For each quote, paraphrase what the quote says related to the question and include the APA citation with the page numbers with the paraphrase. For each source, synthesize the paraphrases into a bulleted list with each bullet point listing a main point the source makes about the question stated as a complete sentence. For each sentence in the list, include the APA citation with the relevant page numbers for the paraphrases that support that statement. If a source doesn't contain any passages relevant to the question, state there are no relevant passages. Please list the question addressed by the passages at the top of the outline. Please save this source quotation outline as a markdown file.
+```
+
+(Depricated) Prompt: evidence review for relevant passages
 
 ```
 Please review each article in the <folder name> folder individually. What does the article say that addresses the question, "<question>"? For each sentence you write, please identify full quotes from the article with APA citations, including page numbers from the article, that support your statements. Please add an APA citation with the relevant page numbers to each sentence of your summary of what the article says that addresses the question. If there are passages on multiple pages that support a sentence, please indicate which passage is most important or that provides the strongest support for the sentence.
