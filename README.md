@@ -25,6 +25,12 @@ Please review each article in the <folder name> folder individually. What does t
 Prompt: analyze the relevant passages and create an outline of the analysis while retaining citation links to the original sources
 
 ```
+Please create an outline that organizes statements from the source syntheses into the following categories: areas of agreement between the sources regarding the answer to the question; areas of disagreement between the sources regarding the answer to the question; and additional insights, patterns, themes, subgroups, and subtleties from the sources that produce a more comprehensive understanding of the big picture surrounding the question. Please organize the syntheses statements with the APA citations that you extracted from the individual articles above as supporting points for the statements you make for each section in the outline. Finally, create an overall analysis section that evaluates how well the question has been answered by the sources, what gaps may exist in the answer to the question provided by the sources, and any other relevant observations. Please include a complete APA References section at the end. I want to save the outline as a markdown document.
+```
+
+(Depricated) Prompt: analyze the relevant passages and create an outline of the analysis while retaining citation links to the original sources
+
+```
 Please create an outline that organizes information from the individual articles into the following sections: areas of agreement between the articles regarding the answer to the question; areas of disagreement between the articles regarding the answer to the question; and additional insights, patterns, themes, subgroups, and subtleties from the articles that produce a more comprehensive understanding of the big picture surrounding the question. Please organize the quotations with the APA citations that you extracted from the individual articles above as supporting points for the statements you make for each section in the outline. Finally, create an overall analysis section that evaluates how well the question has been answered by the sources, what gaps may exist in the answer to the question provided by the sources, and any other relevant observations.
 ```
 
