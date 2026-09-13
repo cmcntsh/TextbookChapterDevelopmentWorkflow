@@ -68,7 +68,13 @@ Prompt: don't use the changes that were made
 I've decided that I don't want to use the E A P organization strategy for this chapter. I like your original heading, subheading, and chapter suggestions using the 5 sections better. Please just revise the language in your suggestion so it's not just geared toward graduate nurses.
 ```
 
-Prompt: add actual evidence to the outline with the proposed paragraphs
+Prompt: add evidence statements to the outline with the proposed paragraphs
+
+```
+Please integrate the information from the original outlines into this chapter organization outline. Don't write finished paragraphs yet. Just outline each of your proposed paragraphs with the statements and evidence from the original documents. Please keep the appropriate citations with each line you list for each paragraph. Where appropriate, please suggest ways to synthesize the information from the original outlines to make the chapter insightful. When creating synthesis statements, retain the citations to original sources so original thoughts can be traced back to their origins. Don't integrate the recommended recurring chapter features into the outline yet. I want to focus on the narrative flow of the information presentation before considering the specific elements suggested in the Recommended recurring chapter features section. Please save this new outline as a markdown file. I want to review the chapter organization complete with cited evidence before doing any finished writing.
+```
+
+(Depricated) Prompt: add actual evidence to the outline with the proposed paragraphs
 
 ```
 Please add the explanation and evidence from the original outlines to this chapter organization outline. Don't write finished paragraphs yet. Just outline each of your proposed paragraphs with the statements and evidence from the original documents. Please keep the appropriate citations with each line you list for each paragraph. I want to review the chapter organization complete with cited evidence before doing any finished writing.
