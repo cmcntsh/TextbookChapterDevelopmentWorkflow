@@ -214,8 +214,8 @@ Output Example:
 Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
 ```
 
-## Synthesis Writeup Outline
-Please suggest a conceptually strong outline for presenting an overall synthesis of what the sources say about the question or topics, using sound principles of rhetoric to organize the information. Keep in mind key rhetorical principles: Disposition (Taxis) - The strategic arrangement of parts to make an argument coherent, clear, and psychologically compelling for an audience; Logos (Logic) - Using a rational sequence of ideas so that each point naturally builds upon or proves the previous one; Ethos (Credibility): Demonstrating structured control and competence, which builds trust with your listeners; Kairos (Timing/Context): Matching the structure, pacing, and urgency of the information to the specific needs of the moment and audience. Also keep in mind common organizational strategies proven to be effective: Chronological/Sequential Pattern: Arranging information by time or step-by-step progression. Best for historical accounts, processes, or procedures; Problem-Solution Pattern: Introducing a clear problem or pain point, exploring its causes and effects, and then presenting a viable solution. Best for persuasive pitches; Cause-Effect Pattern: Demonstrating how specific events, actions, or conditions lead to particular outcomes. Best for analytical or explanatory topics; Topical Pattern: Dividing a broad subject into logical subtopics or categories. Best when information naturally groups into distinct pillars or themes; Climatic (Spatial/Importance) Pattern: Ordering details from least important to most important (building a crescendo) or mapping ideas across a physical layout. If it will help the reader understand, suggest main headings and subheadings to use in the write-up. Under main headings and subheadings, suggest individual paragraphs that would make a strong rhetorical addition for that section or subsection. Please number the main sections, subsections, and paragraphs. Please explain the rationale behind your organizational structure and rhetorical recommendations. If other sound organizational frameworks are also reasonable, list them and explain how each organizes the information. Please include the original question at the top and the References list at the end. Please save this as a Markdown file.
+## Suggest a Synthesis Writeup Outline
+Please suggest a conceptually strong outline for presenting an overall synthesis of what the sources say about the question or topics, using sound principles of rhetoric to organize the information. Keep in mind key rhetorical principles: Disposition (Taxis) - The strategic arrangement of parts to make an argument coherent, clear, and psychologically compelling for an audience; Logos (Logic) - Using a rational sequence of ideas so that each point naturally builds upon or proves the previous one; Ethos (Credibility): Demonstrating structured control and competence, which builds trust with your listeners; Kairos (Timing/Context): Matching the structure, pacing, and urgency of the information to the specific needs of the moment and audience. Also keep in mind common organizational strategies proven to be effective: Chronological/Sequential Pattern: Arranging information by time or step-by-step progression. Best for historical accounts, processes, or procedures; Problem-Solution Pattern: Introducing a clear problem or pain point, exploring its causes and effects, and then presenting a viable solution. Best for persuasive pitches; Cause-Effect Pattern: Demonstrating how specific events, actions, or conditions lead to particular outcomes. Best for analytical or explanatory topics; Topical Pattern: Dividing a broad subject into logical subtopics or categories. Best when information naturally groups into distinct pillars or themes; Climatic (Spatial/Importance) Pattern: Ordering details from least important to most important (building a crescendo) or mapping ideas across a physical layout. Use level 2 headings for main section headings. Use level 3 headings for subsection headings. Only suggest subsections if they are necessary to enhance clarity for the reader. Suggest titles for main section headings and subsection headings that can be used in the final narrative composiiton, that will orient the reader to the topics covered in the main sections and subsections, and that will keep the narrative engaging for the reader. Under main headings and subheadings, suggest individual paragraphs that would make a strong rhetorical addition for that section or subsection. Please number the main sections, subsections, and paragraphs. Please explain the rationale behind your organizational structure and rhetorical recommendations, but don't make the rhetorical explanations part of the narrative outline. The rhetorical explanations will be removed in the final writing. The rhetorical explanations' main purpose is the aid the reviewer in making writing decisions regarding the outline before proceeding to the next writing step. If other sound organizational frameworks are also reasonable, list them and explain how each organizes the information. Please include the original question at the top. Please save this as a Markdown (.md) file.
 
 Output Example:
 
@@ -232,33 +232,33 @@ Purpose: **Show how statistical understanding helps nursing students and nurses 
 
 **Suggested paragraphs:**
 
-1.1.1. Explain that access to research does not automatically produce evidence-based practice; nurses must be able to determine what the findings mean and how much confidence those findings warrant.
+1.1.1 Explain that access to research does not automatically produce evidence-based practice; nurses must be able to determine what the findings mean and how much confidence those findings warrant.
 
-1.1.2. Describe statistical understanding as a tool for judging the credibility, importance, and applicability of research without introducing detailed statistical procedures.
+1.1.2 Describe statistical understanding as a tool for judging the credibility, importance, and applicability of research without introducing detailed statistical procedures.
 
-1.1.3. Explain that nurses must consider whether findings apply to the patients, populations, and practice settings for whom decisions are being made.
+1.1.3 Explain that nurses must consider whether findings apply to the patients, populations, and practice settings for whom decisions are being made.
 
 ### 1.2 Supporting Clinical Decisions, Communication, and Safety
 
 **Suggested paragraphs:**
 
-1.2.1. Discuss how nurses encounter statistical information when considering diagnosis, prognosis, treatment effectiveness, adverse effects, risk, and alternative approaches to care.
+1.2.1 Discuss how nurses encounter statistical information when considering diagnosis, prognosis, treatment effectiveness, adverse effects, risk, and alternative approaches to care.
 
-1.2.2. Explain that statistical evidence strengthens clinical judgment but does not replace nursing knowledge, experience, or understanding of the patient.
+1.2.2 Explain that statistical evidence strengthens clinical judgment but does not replace nursing knowledge, experience, or understanding of the patient.
 
-1.2.3. Discuss how statistical understanding helps nurses communicate risks, benefits, outcomes, and uncertainty to patients, families, colleagues, and other healthcare professionals.
+1.2.3 Discuss how statistical understanding helps nurses communicate risks, benefits, outcomes, and uncertainty to patients, families, colleagues, and other healthcare professionals.
 
-1.2.4. Connect sound interpretation and communication with patient advocacy, avoidance of inappropriate interventions, and safe, high-quality care.
+1.2.4 Connect sound interpretation and communication with patient advocacy, avoidance of inappropriate interventions, and safe, high-quality care.
 
 ### 1.3 Integrating Evidence, Expertise, and Patient Context
 
 **Suggested paragraphs:**
 
-1.3.1. Explain that good nursing judgment integrates research evidence, clinical expertise, patient goals and preferences, and the context in which care occurs.
+1.3.1 Explain that good nursing judgment integrates research evidence, clinical expertise, patient goals and preferences, and the context in which care occurs.
 
-1.3.2. Emphasize that statistical findings should not be interpreted in isolation or treated as automatic instructions for practice.
+1.3.2 Emphasize that statistical findings should not be interpreted in isolation or treated as automatic instructions for practice.
 
-1.3.3. Conclude with the central point that statistical literacy helps nurses determine not merely whether a finding exists, but whether it matters and what action, if any, it supports.
+1.3.3 Conclude with the central point that statistical literacy helps nurses determine not merely whether a finding exists, but whether it matters and what action, if any, it supports.
 
 ## 2. Statistics for Quality Improvement, Systems Evaluation, Policy, and Professional Influence
 
@@ -268,25 +268,25 @@ Purpose: **Expand the discussion from individual patient decisions to the improv
 
 **Suggested paragraphs:**
 
-2.1.1. Explain that quality improvement begins with measurement because nurses cannot determine whether care is improving without examining care processes and outcomes.
+2.1.1 Explain that quality improvement begins with measurement because nurses cannot determine whether care is improving without examining care processes and outcomes.
 
-2.1.2. Describe how nurses use data to recognize variation, identify performance gaps, compare outcomes with standards or benchmarks, and prioritize improvement efforts.
+2.1.2 Describe how nurses use data to recognize variation, identify performance gaps, compare outcomes with standards or benchmarks, and prioritize improvement efforts.
 
-2.1.3. Explain that statistical reasoning helps nurses evaluate whether a change produced meaningful improvement rather than relying on impressions or isolated experiences.
+2.1.3 Explain that statistical reasoning helps nurses evaluate whether a change produced meaningful improvement rather than relying on impressions or isolated experiences.
 
-2.1.4. Connect the quality of nursing documentation and data collection with the reliability of the measures used to evaluate care.
+2.1.4 Connect the quality of nursing documentation and data collection with the reliability of the measures used to evaluate care.
 
 ### 2.2 Systems Leadership, Policy, and Professional Influence
 
 **Suggested paragraphs:**
 
-2.2.1. Expand from local improvement to organizational performance, healthcare policy, program evaluation, and resource allocation.
+2.2.1 Expand from local improvement to organizational performance, healthcare policy, program evaluation, and resource allocation.
 
-2.2.2. Explain how statistical evidence allows nurses to support proposed changes, evaluate existing practices or policies, and participate credibly in organizational decisions.
+2.2.2 Explain how statistical evidence allows nurses to support proposed changes, evaluate existing practices or policies, and participate credibly in organizational decisions.
 
-2.2.3. Discuss how outcome data can demonstrate nursing’s contribution to patient care and strengthen the profession’s influence within interdisciplinary, administrative, and policy environments.
+2.2.3 Discuss how outcome data can demonstrate nursing’s contribution to patient care and strengthen the profession’s influence within interdisciplinary, administrative, and policy environments.
 
-2.2.4. Conclude that nurses need statistical understanding not only to provide care but also to improve and shape the systems in which care is delivered.
+2.2.4 Conclude that nurses need statistical understanding not only to provide care but also to improve and shape the systems in which care is delivered.
 
 ## 3. Statistics and the Integrity of Nursing Research and Knowledge
 
@@ -296,13 +296,13 @@ Purpose: **Explain why statistical reasoning is necessary for nurses who read, e
 
 **Suggested paragraphs:**
 
-3.1.1. Explain that nurses must critically evaluate research because clinical and organizational recommendations depend on the quality of the underlying studies.
+3.1.1 Explain that nurses must critically evaluate research because clinical and organizational recommendations depend on the quality of the underlying studies.
 
-3.1.2. Describe how statistical understanding helps nurses assess study samples, analyses, effect magnitude, uncertainty, clinical relevance, and the appropriateness of conclusions.
+3.1.2 Describe how statistical understanding helps nurses assess study samples, analyses, effect magnitude, uncertainty, clinical relevance, and the appropriateness of conclusions.
 
-3.1.3. Explain that weaknesses in study design, analysis, or interpretation can produce misleading findings even when a report appears scientifically sophisticated.
+3.1.3 Explain that weaknesses in study design, analysis, or interpretation can produce misleading findings even when a report appears scientifically sophisticated.
 
-3.1.4. Emphasize the importance of distinguishing what the data support from conclusions that are overly certain or inconsistent with the study design.
+3.1.4 Emphasize the importance of distinguishing what the data support from conclusions that are overly certain or inconsistent with the study design.
 
 ## Rationale for the sequence
 
@@ -321,7 +321,7 @@ Purpose: **Explain why statistical reasoning is necessary for nurses who read, e
 ```
 
 ## Synthesis Writeup Outline with Supporting Evidence
-Please integrate the information from the original outlines into this chapter organization outline. Don't write finished paragraphs yet. Just outline each of your proposed paragraphs with the statements and evidence from the original documents. Please keep the appropriate citations with each line you list for each paragraph. Where appropriate, please suggest ways to synthesize the information from the original outlines to make the narrative insightful. When creating synthesis statements, retain citations from the original sources so readers can trace ideas back to their origins. Please number the main sections, subsections, and paragraphs. Please save this new outline as a Markdown file. Please include the original question at the top and the References list at the end. I want to review the narrative organization, complete with cited evidence, before doing any final writing.
+Please integrate the paraphrased evidence information from the original outlines into this chapter organization outline. Don't write finished paragraphs yet. Just outline each of your proposed paragraphs with the paraphrase statements from the original documents where they may function well as topics, points, supporting evidence, analysis, or elaboration in the suggested paragraphs. Please keep the appropriate citations with each line you list for each paragraph where they are a direct outgrowth of a synthesis statement. Where appropriate, please suggest ways to synthesize the information from the original synthesis statements to make the narrative insightful. When creating synthesis statements, retain citations from the original sources so readers can trace ideas back to their origins. Please number the main sections, subsections, and paragraphs. Please save this new outline as a Markdown (.md) file. Please include the original question at the top and the References list at the end. I want to review the narrative organization, complete with cited evidence, before doing any final writing.
 
 Output Example:
 
