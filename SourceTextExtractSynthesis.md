@@ -15,7 +15,7 @@ Please review each uploaded source individually. What passages in the source are
 Output Example:
 
 ```text
-# 2026-09-18_01_source_quotation_outline
+# 2026-09-18_01_nurse_stats_source_quotes_outline
 
 ## Question addressed
 
@@ -68,13 +68,151 @@ Quoted passages are reproduced without ellipses. Line-wrap hyphenation has been 
 - Nursing research typically relies on formal controlled comparisons, aggregated samples, and hypothesis testing, whereas nursing QI more often compares a local process with itself sequentially over time. (Benneyan et al., 2003, pp. 458-459)
 - SPC gives nursing QI a rigorous but pragmatic framework for distinguishing common-cause from special-cause variation quickly enough to guide ongoing care-process decisions. (Benneyan et al., 2003, pp. 458-459)
 - QI and research share the inferential problem of separating intervention effects from natural variation, but they organize the data and communicate the inference differently. (Benneyan et al., 2003, pp. 458-459)
+
+## References
+
+Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
 ```
 
 ## Analyze Paraphrase Statements
 Please create an outline that organizes statements from the source syntheses' paraphrases into the following categories: areas of agreement between the sources regarding the answer to the question; areas of disagreement between the sources regarding the answer to the question; and additional insights, patterns, themes, subgroups, and subtleties from the sources that produce a more comprehensive understanding of the big picture surrounding the question. Please organize the synthesis statements with the APA citations that you extracted from the individual articles above as supporting points for the statements you make for each section in the outline. Finally, create an overall analysis section that evaluates how well the question has been answered by the sources, what gaps may exist in the answer to the question provided by the sources, and any other relevant observations. Please include a complete APA References section at the end. I want to save the outline as a Markdown document.
 
+Output Example:
+
+```text
+# 2026-09-18_02_nurse_stats_comparative_synthesis_outline
+
+## Question addressed
+
+**How Does the Statistical Framework for Quality Improvement in Nursing Differ from the Statistical Framework for Nursing Research?**
+
+## I. Areas of agreement between the sources
+
+### A. The two frameworks begin with different primary purposes.
+
+- Nursing research primarily seeks new, generalizable knowledge, tests causal or explanatory claims, or estimates effects in a defined population; nursing QI primarily seeks to improve the future performance and reliability of a particular care process or clinical system. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147; Neuhauser et al., 2011, pp. i36-i38; Ogrinc, 2021, pp. 643-644, 648; Provost, 2011, pp. i92-i94; Solberg et al., 1997, pp. 136, 144-145; World Health Organization, 2011, p. 181)
+  - Deming describes improvement as analytic inquiry directed toward a cause system and its future output, in contrast with enumerative inquiry about a fixed population or frame. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147)
+  - Applied health care sources express the same distinction as discovering or testing general knowledge versus making evidence work reliably in a local clinical system. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, pp. 136, 144-145; World Health Organization, 2011, p. 181)
+  - The appropriate statistical framework therefore depends on the intended decision, not on a universal hierarchy in which one design is always superior. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644)
+
+## II. Areas of disagreement or qualified tension between the sources
+
+The sources do not present broad, mutually exclusive answers. Most differences are tensions in terminology, emphasis, or the level of evidence expected from an operational QI project versus a more ambitious improvement study. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644)
+
+### A. The sources use different language about whether QI tests hypotheses.
+
+- Mohammed describes PDSA as a scientific cycle of hypothesis generation and testing, and Provost describes QI as analytic inquiry involving planned experimentation and prediction. (Mohammed, 2024, p. 3; Provost, 2011, pp. i92-i96)
+- Wolfe and colleagues state that a QI project does not specifically test a hypothesis in the research sense and may demonstrate that a practice change or bundle improved care without identifying the exact causal component. (Wolfe et al., 2021, p. 539)
+- This is best interpreted as a difference in the meaning of *hypothesis testing*: QI tests practical predictions through sequential learning cycles, but it usually does not conduct one fixed, confirmatory null-hypothesis test designed to support a generalizable causal claim. (Mohammed, 2024, p. 3; Provost, 2011, pp. i92-i96; Wolfe et al., 2021, pp. 539-540)
+
+## III. Additional insights, patterns, themes, subgroups, and subtleties
+
+### A. The deepest distinction is analytic versus enumerative, not simply QI versus research.
+
+- Deming and Provost suggest that the decisive question is whether the inquiry describes a bounded frame or predicts and changes the future output of a cause system. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147; Provost, 2011, pp. i92-i96)
+- Some research can therefore be analytic, and some data used in QI can have enumerative functions; the statistical design should follow the intended use of the findings. (Deming, 1953, pp. 245-247; Neuhauser et al., 2011, pp. i36, i39)
+- This subtlety prevents an overly rigid equation of “research” with one statistical technique or “QI” with one chart. (Deming, 1953, pp. 245-247; Neuhauser et al., 2011, pp. i36, i39)
+
+## IV. Overall analysis
+
+### A. How well the sources answer the question
+
+- **The sources answer the conceptual and methodological core of the question well.** Across foundational statistical writing, methodological articles, textbooks, a systematic review, a white paper, and an international patient-safety guide, they consistently distinguish nursing QI from nursing research by purpose, unit of action, temporal organization, sampling expectations, inferential logic, and preferred displays. (Deming, 1975, pp. 146-149; Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, pp. 643-648; Solberg et al., 1997, pp. 135-146; World Health Organization, 2011, pp. 181, 188)
+- **The answer is especially strong concerning QI.** The sources give a coherent account of QI as local, sequential, context-sensitive, predictive, and action oriented; they also identify its characteristic tools: families of measures, PDSA cycles, run charts, control charts, and common- versus special-cause reasoning. (Benneyan et al., 2003, pp. 458-459; Gupta & Kaplan, 2020, pp. 962-964; Mohammed, 2024, pp. 3-4, 48; Provost, 2011, pp. i92-i96; Wolfe et al., 2021, pp. 539-546)
+- **The answer is credible because the agreement extends across time and source type.** Deming's foundational distinction from the 1950s and 1970s is carried into modern health care measurement, implementation, and reporting guidance. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Ogrinc, 2021, pp. 643-648; Toulany & Shojania, 2025, pp. 17-37)
+- **The sources support a qualified rather than absolute answer.** QI and research overlap in disciplined inquiry, experimentation, and the need to distinguish intervention effects from variation; their principal difference is how those activities are configured for a particular purpose. (Benneyan et al., 2003, pp. 458-459; Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, p. 644; Solberg et al., 1997, p. 146)
+
+### B. Gaps in the answer provided by the sources
+
+- **Nursing-specific evidence is limited.** Most sources concern health care generally, physicians, hospitals, patient safety, or clinical systems rather than nursing practice, nursing-sensitive indicators, nurse staffing, or nurse-led QI. The statistical distinctions are transferable to nursing, but the source set does not extensively test whether nursing contexts introduce distinctive measurement problems. (Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, pp. 643-648; World Health Organization, 2011, pp. 181, 188)
+- **The research framework is described less fully than the QI framework.** Research is often represented by RCTs, regression, fixed-period group comparisons, and null-hypothesis testing. The sources give less attention to observational causal inference, pragmatic and cluster trials, interrupted time-series research, mixed methods, Bayesian analysis, adaptive designs, or hybrid effectiveness-implementation studies that blur the QI-research boundary. (Benneyan et al., 2003, pp. 458-459; Neuhauser et al., 2011, pp. i36-i38; Solberg et al., 1997, pp. 144-145; Wolfe et al., 2021, pp. 539-540)
+- **The source set is conceptually concentrated.** Many sources draw directly or indirectly from the Deming-Shewhart-SPC tradition and the Model for Improvement. Agreement among them is meaningful, but it is not equivalent to agreement among fully independent statistical schools. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Mohammed, 2024, pp. 3-4, 48; Provost, 2011, pp. i92-i96)
+- **There is little head-to-head empirical evaluation.** The sources explain why particular frameworks fit particular purposes, but they provide limited comparative evidence about when an SPC-based QI analysis and a conventional research analysis applied to the same nursing dataset would produce different decisions, error rates, costs, or patient outcomes. (Benneyan et al., 2003, pp. 458-459; Thor et al., 2007, pp. 387, 390)
+- **Equity and data-quality issues receive limited treatment.** The sources discuss context, case mix, and measurement validity, but do not fully address algorithmic bias, missing-not-at-random data, small subgroup analysis, health inequities, or whether an overall process improvement masks harm in a minoritized subgroup. (Provost & Murray, 2011, p. 52; Toulany & Shojania, 2025, pp. 29, 33-34)
+- **Governance boundaries remain underdeveloped.** The synthesis does not fully resolve when a nurse-led initiative becomes human-subjects research, when institutional review or consent is required, how publication intent affects classification, or how accountability measures should be governed when they are reused for QI. (Busse et al., 2019, p. 35; Ogrinc, 2021, pp. 643-648; Solberg et al., 1997, pp. 135-146)
+- **Modern digital measurement is largely absent.** The sources provide little guidance about real-time electronic health record data, automated surveillance, high-frequency monitoring, multiple-testing burdens, data drift, or machine-learning systems embedded in nursing workflows. (Mohammed, 2024, p. 48; Wolfe et al., 2021, pp. 539-546)
+- **Transferability remains difficult to operationalize.** The sources recommend context reporting, replication, and prediction over time, but offer no single agreed threshold for deciding when a successful local QI intervention is sufficiently robust to spread to another unit or organization. (Ogrinc, 2021, pp. 643-648; Provost, 2011, pp. i93-i96)
+
+### C. Other relevant observations
+
+- The question is best answered as a difference in **fitness for purpose**, not a contest between a rigorous research framework and an informal QI framework. Both can be rigorous when their designs match their intended decisions. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644; Thor et al., 2007, p. 390)
+- The most defensible concise distinction is: **nursing research usually estimates or tests generalizable relationships under a prespecified design, whereas nursing QI repeatedly studies a local care process through time to decide what action will improve its future performance.** (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Neuhauser et al., 2011, pp. i36-i38; Provost, 2011, pp. i92-i96)
+- The practical boundary is porous. A nursing project may begin as local QI, generate a researchable hypothesis, adopt stronger causal designs, and later return findings to practice through further QI cycles. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, p. 146)
+- A comprehensive nursing evidence strategy therefore needs both frameworks: research to establish and refine knowledge, and QI to adapt, implement, monitor, and sustain that knowledge in real care systems. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, p. 146)
+
+## References
+
+Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
+```
+
 ## Group By Topic
 Please reorganize the information from the analysis paraphrase statements outline into a topical grouping outline. For each main topic, please list the items from the analysis outline relevant to that topic. Keep the same groupings under the topic heading that were used in the analysis outline (Areas of Agreement; Areas of Disagreement; Additional Insights, Patterns, Themes, Subgroups, and Subtleties; Overall Analysis). Please include the original question at the top and the References list at the end. Please save this as a Markdown file.
+
+Output Example:
+
+```text
+# 2026-09-18_03_nurse_stats_topical_grouping_outline
+
+## Question addressed
+
+**How Does the Statistical Framework for Quality Improvement in Nursing Differ from the Statistical Framework for Nursing Research?**
+
+## I. Purpose, intended use, and form of knowledge
+
+### Areas of Agreement
+
+- Nursing research primarily seeks new, generalizable knowledge, tests causal or explanatory claims, or estimates effects in a defined population; nursing QI primarily seeks to improve the future performance and reliability of a particular care process or clinical system. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147; Neuhauser et al., 2011, pp. i36-i38; Ogrinc, 2021, pp. 643-644, 648; Provost, 2011, pp. i92-i94; Solberg et al., 1997, pp. 136, 144-145; World Health Organization, 2011, p. 181)
+- Deming describes improvement as analytic inquiry directed toward a cause system and its future output, in contrast with enumerative inquiry about a fixed population or frame. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147)
+- Applied health care sources express the distinction as discovering or testing general knowledge versus making evidence work reliably in a local clinical system. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, pp. 136, 144-145; World Health Organization, 2011, p. 181)
+- The proper framework depends on the decision the inquiry must support; no design is universally superior for local improvement, generalizable causal knowledge, and individualized care. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644)
+
+### Areas of Disagreement
+
+- The sources differ in their use of the term *hypothesis testing*. Mohammed describes PDSA as a scientific cycle of hypothesis generation and testing, and Provost treats QI as analytic inquiry involving planned experimentation and prediction. (Mohammed, 2024, p. 3; Provost, 2011, pp. i92-i96)
+- Wolfe and colleagues state that QI does not specifically test a hypothesis in the conventional research sense and may show that a practice bundle improved care without identifying the exact causal component. (Wolfe et al., 2021, p. 539)
+- The tension is resolved if QI is understood to test practical predictions sequentially without necessarily conducting one fixed, confirmatory null-hypothesis test intended to establish a generalizable causal claim. (Mohammed, 2024, p. 3; Provost, 2011, pp. i92-i96; Wolfe et al., 2021, pp. 539-540)
+
+### Additional Insights, Patterns, Themes, Subgroups, and Subtleties
+
+- The deepest distinction is analytic versus enumerative inquiry, not an absolute opposition between all research and all QI. Some research can be analytic, while QI data can also serve descriptive or enumerative purposes. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-147; Neuhauser et al., 2011, pp. i36, i39)
+- QI and research remain complementary: research can establish efficacy or general knowledge for QI to implement, while QI can generate hypotheses, reveal mechanisms and contextual conditions, and stabilize a process for later research. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, p. 146)
+- Combining the purposes is possible, but requiring a local QI project to satisfy every research purpose may slow improvement, increase cost, and increase measurement burden. (Solberg et al., 1997, pp. 135-136, 145)
+
+### Overall Analysis
+
+- The sources answer this topic strongly and consistently: the primary difference is fitness for purpose rather than a contest between a rigorous research framework and an informal QI framework. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644; Thor et al., 2007, p. 390)
+- The most defensible concise distinction is that nursing research usually estimates or tests generalizable relationships under a prespecified design, whereas nursing QI repeatedly studies a local care process to decide what action will improve its future performance. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Neuhauser et al., 2011, pp. i36-i38; Provost, 2011, pp. i92-i96)
+- A gap is that the sources discuss conventional research designs more fully than hybrid, pragmatic, adaptive, implementation-science, and other designs that deliberately combine knowledge generation with real-world improvement. (Benneyan et al., 2003, pp. 458-459; Neuhauser et al., 2011, pp. i36-i38; Solberg et al., 1997, pp. 144-145; Wolfe et al., 2021, pp. 539-540)
+
+## IX. Scope, strengths, and limitations of the source base
+
+### Areas of Agreement
+
+- Across foundational statistical writing, methodological articles, textbooks, a systematic review, a white paper, and an international patient-safety guide, the sources converge on differences in purpose, time orientation, sampling, inferential logic, and preferred displays. (Deming, 1975, pp. 146-149; Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, pp. 643-648; Solberg et al., 1997, pp. 135-146; World Health Organization, 2011, pp. 181, 188)
+- The QI framework is described especially coherently as local, sequential, context sensitive, predictive, and action oriented. (Benneyan et al., 2003, pp. 458-459; Gupta & Kaplan, 2020, pp. 962-964; Mohammed, 2024, pp. 3-4, 48; Provost, 2011, pp. i92-i96; Wolfe et al., 2021, pp. 539-546)
+
+### Areas of Disagreement
+
+- No broad contradiction exists across the source base; most differences concern terminology, emphasis, and the level of evidence expected from an operational project versus a transferable improvement study. (Neuhauser et al., 2011, pp. i36, i39; Ogrinc, 2021, p. 644)
+- Because many sources share the Deming-Shewhart-SPC and Model for Improvement lineage, their convergence is meaningful but is not equivalent to agreement among fully independent statistical traditions. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Mohammed, 2024, pp. 3-4, 48; Provost, 2011, pp. i92-i96)
+
+### Additional Insights, Patterns, Themes, Subgroups, and Subtleties
+
+- Deming and Provost provide the foundational theory of analytic versus enumerative inquiry and prediction over time. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Provost, 2011, pp. i92-i96)
+- Benneyan, Gupta and Kaplan, Mohammed, Provost and Murray, Thor, and Wolfe explain the practical machinery of time-series measurement and SPC. (Benneyan et al., 2003, pp. 458-459; Gupta & Kaplan, 2020, pp. 962-964; Mohammed, 2024, pp. 3-4, 48; Provost & Murray, 2011, pp. 68-69, 110; Thor et al., 2007, pp. 387, 390; Wolfe et al., 2021, pp. 539-546)
+- Busse, Neuhauser, Ogrinc, Solberg, Toulany and Shojania, and the World Health Organization place those methods within broader questions of purpose, burden, context, stakeholders, implementation, and reporting. (Busse et al., 2019, p. 35; Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, pp. 643-648; Solberg et al., 1997, pp. 135-146; Toulany & Shojania, 2025, pp. 17-37; World Health Organization, 2011, pp. 181, 188)
+
+### Overall Analysis
+
+- The conceptual and methodological core of the question is answered well, and the convergence extends across multiple decades and source types. (Deming, 1953, pp. 245-247; Deming, 1975, pp. 146-149; Ogrinc, 2021, pp. 643-648; Toulany & Shojania, 2025, pp. 17-37)
+- Nursing-specific evidence remains limited because most sources discuss health care systems, hospitals, physicians, patient safety, or clinical practice generally rather than nurse-sensitive indicators, nurse staffing, and nurse-led QI. (Neuhauser et al., 2011, pp. i36-i39; Ogrinc, 2021, pp. 643-648; World Health Organization, 2011, pp. 181, 188)
+- The source set contains little direct empirical comparison of competing frameworks, limited coverage of modern digital and causal methods, and incomplete treatment of equity, governance, and transferability. (Benneyan et al., 2003, pp. 458-459; Mohammed, 2024, p. 48; Thor et al., 2007, pp. 387, 390; Toulany & Shojania, 2025, pp. 29, 33-34)
+- A comprehensive nursing evidence strategy needs both frameworks: research to establish and refine knowledge, and QI to adapt, implement, monitor, and sustain that knowledge in real care systems. (Ogrinc, 2021, pp. 643-644, 648; Solberg et al., 1997, p. 146)
+
+## References
+
+Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
+```
 
 ## Synthesis Writeup Outline
 Please suggest a conceptually strong outline for presenting an overall synthesis of what the sources say about the question or topics, using sound principles of rhetoric to organize the information. If it will help the reader understand, suggest main headings and subheadings to use in the write-up. Under main headings and subheadings, suggest individual paragraphs that would make a strong rhetorical addition for that section or subsection. Please explain the rationale behind your organizational structure and rhetorical recommendations. If other sound organizational frameworks are also reasonable, list them and explain how each organizes the information. Please include the original question at the top and the References list at the end. Please save this as a Markdown file.
