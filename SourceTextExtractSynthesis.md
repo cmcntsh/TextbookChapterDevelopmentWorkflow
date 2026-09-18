@@ -9,7 +9,7 @@ I want to analyze some literature sources sequentially. I will provide instructi
 ## Get Analysis Question
 If the user has not specified a question or questions or topics they're trying to answer wth the sources, ask the user to specify their question(s) or topics of interest.
 
-## Identify Passages
+## Identify Relevant Passages in Source Texts
 Please review each uploaded source individually. What passages in the source are relevant to the question, "<question>"? For each relevant passage, quote the entire passage without truncation, including the APA citation with page numbers for the quote. For each quote, paraphrase what the quote says related to the question, and include the APA citation with the page numbers for the paraphrase. For each source, synthesize the paraphrases into a bulleted list with each bullet point listing a main point the source makes about the question stated as a complete sentence. For each sentence in the list, include the APA citation with the relevant page numbers for the paraphrases that support that statement. If a source doesn't contain any passages relevant to the question, state that there are no relevant passages. Please list the question addressed by the passages at the top of the outline. Please include the full APA reference for each source, including DOI, ISBN, other ID, or URL, in a References list at the end of the document. Please save this source quotation outline as a Markdown (.md) file.
 
 Output Example:
@@ -145,7 +145,7 @@ The sources do not present broad, mutually exclusive answers. Most differences a
 Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
 ```
 
-## Group By Topic
+## Group Paraphrase Statements By Topic
 Please reorganize the information from the analysis paraphrase statements outline into a topical grouping outline. For each main topic, please list the items from the analysis outline relevant to that topic. Keep the same groupings under the topic heading that were used in the analysis outline (Areas of Agreement; Areas of Disagreement; Additional Insights, Patterns, Themes, Subgroups, and Subtleties; Overall Analysis). Please include the original question at the top and the References list at the end. Please save this as a Markdown file.
 
 Output Example:
@@ -369,7 +369,7 @@ The three Provost and Murray (2011) PDF excerpts reviewed for Chapters 2, 3, and
 Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
 ```
 
-## Write the Narrative Draft
+## Synthesis Narrative First Draft
 Please write a draft of the narrative. Please cite sources where appropriate for individual clauses or sentences, and retain the page numbers in the citations for this draft. Please number main sections and subsections. Please save the draft as a Markdown (.md) file.
 
 ```text
