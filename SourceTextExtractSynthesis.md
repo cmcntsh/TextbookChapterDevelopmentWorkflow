@@ -399,7 +399,5 @@ Graduate research nurses require deeper knowledge of sampling, study design, bia
 
 ## References
 
-The three Provost and Murray (2011) excerpts reviewed for Chapters 2, 3, and 4 come from the same authored book and are consolidated into one APA reference.
-
 Benneyan, J. C., Lloyd, R. C., & Plsek, P. E. (2003). Statistical process control as a tool for research and healthcare improvement. *Quality & Safety in Health Care, 12*, 458-464.
 ```
