@@ -1,14 +1,26 @@
 # Textbook Chapter Development Workflow
 
-This workflow was conducted using ChatGPT Work Desktop. This allows ChatGPT to access designated folders on the computer and access files in those folders.
+This workflow was conducted using ChatGPT Work Desktop. This allows ChatGPT to access designated folders on the computer and access files in those folders. ChatGPT doesn't work well with cloud drives. It's best to use folders directly on your computer. ChatGPT seemed to work with subfolders to keep categories of items separated and organized. I've also tried this with ChatGPT online with good results. (The online version can't access folders on your computer, so you need to upload relevant files.)
+
+## Targeted Literature Search
+
+When you need to find some sources quickly, ChatGPT seems to be improving at finding relevant items.
 
 Prompt: finding evidence (I tried the same question on scite.ai. The sources returned by ChatGPT were far superior. Scite just seemed to take the first things it found.
 
 ```
-what authoritative texts or peer-reviewed scholarly articles explain <question to answer>? For the sources you list, please provide full APA references, including identifiers such as DOIs or ISBNs.
+What authoritative texts or peer-reviewed scholarly articles explain <question to answer>? For the sources you list, please provide full APA references, including identifiers such as DOIs or ISBNs or URLs.
 ```
 
-I went and retrieved the sources identified and saved the references in Zotero. I saved the files in my regular literature folder on Box. ChatGPT Work desktop doesn't work with Box well. I created a separate folder directly on my laptop. I added subfolders to keep files in different categories. I added the literature files to a folder. ChatGPT didn't seem to have any problem accessing materials in the subfolders. Once I had all my literature sources in the right folder, I ran the next prompt to review each source and extract relevant quotes with citations.
+I went and retrieved the sources identified and saved the references in Zotero. Once I had all my literature sources in the right folder, I ran the next prompt to review each source and extract relevant quotes with citations.
+
+Prompt: Create RIS (.ris) file to import the sources into a citation manager.
+
+```
+Please create an RIS (.ris) file that includes all the sources you listed so I can download the file and impoort the references into Zotero.
+```
+
+---
 
 Prompt: create a relevant quote outline from the sources included in the review
 
