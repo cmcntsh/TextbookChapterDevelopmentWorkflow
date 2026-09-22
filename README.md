@@ -20,7 +20,8 @@ Prompt: Create RIS (.ris) file to import the sources into a citation manager.
 Please create an RIS (.ris) file that includes all the sources you listed so I can download the file and impoort the references into Zotero.
 ```
 
----
+>[!IMPORTANT]
+>End of Targeted Literature Search section
 
 Prompt: create a relevant quote outline from the sources included in the review
 
