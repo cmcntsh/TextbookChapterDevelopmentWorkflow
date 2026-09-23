@@ -20,8 +20,7 @@ Prompt: Create RIS (.ris) file to import the sources into a citation manager.
 Please create an RIS (.ris) file that includes all the sources you listed so I can download the file and impoort the references into Zotero.
 ```
 
->[!NOTE]
->End of Targeted Literature Search section
+## Identify Relevant Passages
 
 Prompt: create a relevant quote outline from the sources included in the review
 
@@ -35,6 +34,8 @@ Please review each source in the <folder name> folder individually. What passage
 Please review each article in the <folder name> folder individually. What does the article say that addresses the question, "<question>"? For each sentence you write, please identify full quotes from the article with APA citations, including page numbers from the article, that support your statements. Please add an APA citation with the relevant page numbers to each sentence of your summary of what the article says that addresses the question. If there are passages on multiple pages that support a sentence, please indicate which passage is most important or that provides the strongest support for the sentence.
 ```
 
+## Agreement, Disagreement, Pattern Analysis
+
 Prompt: analyze the relevant passages and create an outline of the analysis while retaining citation links to the original sources
 
 ```
@@ -47,11 +48,15 @@ Please create an outline that organizes statements from the source syntheses int
 Please create an outline that organizes information from the individual articles into the following sections: areas of agreement between the articles regarding the answer to the question; areas of disagreement between the articles regarding the answer to the question; and additional insights, patterns, themes, subgroups, and subtleties from the articles that produce a more comprehensive understanding of the big picture surrounding the question. Please organize the quotations with the APA citations that you extracted from the individual articles above as supporting points for the statements you make for each section in the outline. Finally, create an overall analysis section that evaluates how well the question has been answered by the sources, what gaps may exist in the answer to the question provided by the sources, and any other relevant observations.
 ```
 
+## Group Analysis Points by Topic
+
 Prompt: create a topical grouping outline from the analysis outline
 
 ```
 Please reorganize the information from the analysis outline into a topical grouping outline. For each main topic, please list the items from the analysis outline relevant to that topic. Keep the same groupings under the topic heading that were used in the analysis outline (Areas of Agreement; Areas of Disagreement; Additional Insights, Patterns, Themes, Subgroups, and Subtleties; Overall Analysis). 
 ```
+
+## Get an Ouline of Suggested Synthesis Report Organization
 
 At this point, it may be beneficial to review the outlines already created and get an idea of what you may be looking for when synthesizing the information. In the next prompt, I asked ChatGPT to outline an organizational structure to write up the synthesis. I ended up not liking the recommended structure as much as what I had originally envisioned after reviewing the previous outlines. After the prompt where I asked for a recommendation, I'll also include the prompt where I told ChatGPT to use another structure instead.
 
@@ -81,6 +86,8 @@ Prompt: don't use the changes that were made
 I've decided that I don't want to use the E A P organization strategy for this chapter. I like your original heading, subheading, and chapter suggestions using the 5 sections better. Please just revise the language in your suggestion so it's not just geared toward graduate nurses.
 ```
 
+## Incorporate Evidence Statements Into Outline
+
 Prompt: add evidence statements to the outline with the proposed paragraphs
 
 ```
@@ -92,6 +99,8 @@ Please integrate the information from the original outlines into this chapter or
 ```
 Please add the explanation and evidence from the original outlines to this chapter organization outline. Don't write finished paragraphs yet. Just outline each of your proposed paragraphs with the statements and evidence from the original documents. Please keep the appropriate citations with each line you list for each paragraph. I want to review the chapter organization complete with cited evidence before doing any finished writing.
 ```
+
+## Write a Draft Based on the Outline
 
 Prompt: write the chapter text based on the outline
 
