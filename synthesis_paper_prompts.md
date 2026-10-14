@@ -60,3 +60,9 @@ Please create a new draft in a Markdown (.md) file. In the new draft, remove ref
 ```
 Please create a new draft in a Markdown (.md) file. Please add an AI Acknowledgement section before the References section and describe how AI was used to help draft the document. Please add an APA parenthetical citation for ChatGPT to the AI acknowledgement section. Please add the APA reference for OpenAI to the references list.
 ```
+
+## Fix Citation Formatting
+
+```
+Please create a new draft of the Markdown (.md) file. Please convert all citations and references to standard APA formatting. Don't retain page numbers for citations that aren't connected to direct quotations, but retain them for citations for direct quotes.
+```
